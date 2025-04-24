@@ -74,8 +74,7 @@ endmodule
 
 **Output/TIMING Waveform**
 
-![Uploading wf op.jpg…]()
-
+![wf op](https://github.com/user-attachments/assets/7910bcb0-a970-4162-bd44-c4a3ac8b1da7)
 
 **Result:**
 Thus the half subtractor and half adder circuits are designed and the truth tables is verified using quartus software.
